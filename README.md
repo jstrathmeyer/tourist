@@ -1,2 +1,2 @@
 # tourist
-A roguelike template framework written in C++
+A roguelike template framework written in C++ using ncurses
